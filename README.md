@@ -63,3 +63,7 @@ https://www.javachinna.com/secure-spring-boot-rest-api-with-basic-authentication
    ],
    "lastModifiedDate":"2022-10-20T14:33:14.903Z"
 }
+
+https://www.bezkoder.com/jpa-many-to-many/
+
+https://dzone.com/articles/versioning-rest-api-with-spring-boot-and-swagger#:~:text=Different%20Approaches%20to%20API%20Versioning&text=The%20most%20popular%20of%20them,version%3D1.
